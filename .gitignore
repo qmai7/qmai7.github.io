@@ -1,0 +1,7 @@
+# tool/editor caches
+.clj-kondo/
+.lsp/
+.cache/
+**/.cache/
+**/.lsp/
+
