@@ -524,6 +524,13 @@ section {
   margin-bottom: 1rem;
 }
 
+.project-actions {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: nowrap;   /* 👈 force same line */
+}
+
 
 .project-card {
   background: #fff;
